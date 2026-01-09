@@ -47,8 +47,8 @@ My work spans **flight booking platforms (Amadeus APIs)** and **custom Shopify d
 ## Tech Stack
 
 **Backend:** Node.js, PostgreSQL
-**Frontend:** JavaScript, HTML, CSS
-**E-commerce:** Shopify (Liquid, custom themes, storefront customization)
+**Frontend:** Next.js, React.js, React Native, JavaScript, HTML, CSS
+**E-commerce:** Shopify (Liquid, custom themes, storefront customization), Wordpress
 **Travel Tech:** Amadeus Self-Service APIs (flight search, booking, post-booking)
 
 ---
